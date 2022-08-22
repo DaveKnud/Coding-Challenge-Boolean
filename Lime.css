@@ -1,0 +1,62 @@
+html{
+ background-image: url(https://raw.githubusercontent.com/DaveKnud/Lim-Coding-Challenge-Boolean/main/background.jpg);
+ background-size:100% ;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+
+body{
+  margin:auto;
+  margin-top: 3%;
+  margin-bottom: 5%;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 70%;
+  border-radius: 25px;
+  }
+
+.barracentraleprenotazione{
+  background-color: rgba(0, 255, 0, 0.9 );
+}
+
+.logo{
+display: block;
+margin: auto;
+width: 20%;
+}
+
+
+.titolo{
+  color: rgb(0, 240, 0);
+  font-size: 180%;
+}
+
+.titolimonopattini, .posizionemonopattini{
+    text-align: left;
+    color: white;
+    font-family: Calibri;
+    padding-left: 5%
+}
+
+
+.rettangolo1{
+  background-color: rgba(255, 200, 0, 0.9 );
+  width: 30%;
+}
+
+.rettangolo2{
+  background-color: rgba(0, 255, 0, 0.9 );
+  width: 60%;
+  }
+
+.rettangolo3{
+  background-color: rgba(255, 0, 0, 0.9 );
+  width: 10%;
+  }
+
+.rettangolo1,.rettangolo2,.rettangolo3{
+  border-radius: 7px;
+  height: 25px;
+  padding-left: 5%
+
+}
